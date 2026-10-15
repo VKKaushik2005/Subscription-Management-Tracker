@@ -1,4 +1,4 @@
-# Subscription Management System
+# Subtracker - Subscription Management System
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
